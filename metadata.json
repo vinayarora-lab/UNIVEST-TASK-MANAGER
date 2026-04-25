@@ -1,0 +1,12 @@
+{
+  "name": "Univest Meeting Task Manager",
+  "description": "Capture live meeting audio and automatically extract tasks into an Excel-ready table with AI-powered summaries and owner assignments.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Audio Processing",
+    "Task Extraction",
+    "Excel Export"
+  ]
+}
